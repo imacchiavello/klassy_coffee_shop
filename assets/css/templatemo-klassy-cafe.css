@@ -1,8 +1,6 @@
 /*
 
-TemplateMo 558 Klassy Cafe
 
-https://templatemo.com/tm-558-klassy-cafe
 
 */
 
@@ -941,7 +939,8 @@ menu
 .info {
   position: relative;
   width: 100%;
-  background-color: #fb5849;
+  background-color: black;
+  opacity:1;
   border: 1px solid #fb5849;
   transform: translateY(100%)
   translateY(120px)
@@ -967,18 +966,6 @@ menu
   color: #fff;
 }
 
-#menu .price h6 {
-  position: absolute;
-  width: 70px;
-  height: 70px;
-  background-color: #fb5849;
-  font-size: 20px;
-  font-weight: 700;
-  color: #fff;
-  border-radius: 3px;
-  text-align: center;
-  line-height: 70px;
-}
 
 #menu .card .main-text-button {
   margin-left: 30px;
